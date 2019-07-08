@@ -1,1 +1,2 @@
-/* Add application styles & imports to this file! */
+@import "~jqwidgets-scripts/jqwidgets/styles/jqx.base.css";
+@import "~jqwidgets-scripts/jqwidgets/styles/jqx.material.css";

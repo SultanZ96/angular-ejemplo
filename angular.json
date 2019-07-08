@@ -23,6 +23,8 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/jqwidgets-scripts/jqwidgets/styles/jqx.base.css",
+              "node_modules/jqwidgets-scripts/jqwidgets/styles/jqx.material.css",
               "src/styles.css"
             ],
             "scripts": []
