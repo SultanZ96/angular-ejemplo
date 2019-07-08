@@ -10,7 +10,6 @@
     "@angular/platform-browser": "8.1.0",
     "@angular/platform-browser-dynamic": "8.1.0",
     "@angular/router": "8.1.0",
-    "core-js": "^3.1.4",
     "jqwidgets-scripts": "8.1.2",
     "rxjs": "6.5.2",
     "zone.js": "0.9.1"
