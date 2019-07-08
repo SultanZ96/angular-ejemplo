@@ -1,4 +1,6 @@
-<hello name="{{ name }}"></hello>
-<p>
-  Start editing to see some magic happen :)
-</p>
+<jqxGrid #ComisionesRRHHGrid [width]="'100%'" [theme]="'material'" [altrows]="true"
+            [source]="dataComisionesRRHH" [columns]="columnsComisionesRRHH" [columnsresize]= "true" [pageable]="true" [height]="480"[showaggregates]="true"
+            [showstatusbar]="true" [statusbarheight]="25"
+            [sortable]="true" [groupable]="true" [localization]="localization" [filterable]="true"
+            [enabletooltips]="true" [showfilterrow]="true">
+</jqxGrid>
